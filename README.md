@@ -178,7 +178,7 @@ Any cgminer API commands not explictly defined above are implemented using ``met
 
 If you find this gem useful, please consider donating.
 
-BTC: 1Fi7YbpTYjHynUqbh1vwPcAqAqwQzeC1gw
+BTC: 1KQU3px4VReTwo8gWPdjkqJiLktpdRyP8h
 
 ## License
 
